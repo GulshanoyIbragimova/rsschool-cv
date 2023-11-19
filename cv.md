@@ -12,7 +12,7 @@ background in teaching I want to try my place in the world of web development. T
 
 ## Education
 
-### [Yangzhou University], [Software Engineering]
+### Yangzhou University, Software Engineering
 
 - _Graduation Year:_ July 2022
 
